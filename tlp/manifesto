@@ -1,0 +1,17 @@
+
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "arnaldopaulo.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "arnaldopaulo.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "pt",
+  "categories": [
+    "books",
+    "health"
+  ]
+}
